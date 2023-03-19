@@ -1,0 +1,13 @@
+{
+  "name": "My todo list",
+  "tasks": [
+    {
+      "name": "WakeUp",
+      "completed": false
+    },
+    {
+      "name": "CPSC210",
+      "completed": false
+    }
+  ]
+}

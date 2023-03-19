@@ -1,0 +1,13 @@
+{
+    "name": "To do List",
+    "tasks": [
+        {
+            "name": "Apply RA",
+            "completed": true
+        },
+        {
+            "name": "Github",
+            "completed": true
+        }
+    ]
+}
